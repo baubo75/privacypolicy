@@ -1,1 +1,1 @@
-Hantera dina egna recept.
+Privacy Policy Page for Recipe Register.
