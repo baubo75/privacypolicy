@@ -1,1 +1,1 @@
-Privacy policy page for Recipe Registry app.
+Hantera dina egna recept.
